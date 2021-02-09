@@ -203,7 +203,7 @@ dependencies {
     } else {
         implementation jscFlavor
     }
-
+    implementation "com.braintreepayments.api:braintree:3.15.0"
     implementation project(':rnbraintree')
 }
 
