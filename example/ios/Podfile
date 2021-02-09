@@ -14,7 +14,9 @@ target 'RnBraintreeExample' do
   #
   # Note that if you have use_frameworks! enabled, Flipper will not work and
   # you should disable these next few lines.
-  use_flipper!
+
+  # change form use_flipper! below line to avoid flipper related issue
+  use_flipper!({ 'Flipper-Folly' => '2.3.0' })
   post_install do |installer|
     flipper_post_install(installer)
   end
