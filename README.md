@@ -8,6 +8,10 @@ Upgraded wrapper of android and ios braintree sdk
 npm install rn-braintree
 ```
 
+```sh
+yarn add rn-braintree
+```
+
 ## Usage
 
 ```js
