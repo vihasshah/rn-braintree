@@ -13,7 +13,7 @@
         "android",
         "ios",
         "cpp",
-        "rn-braintree.podspec",
+        "rn-braintree-xplat.podspec",
         "!lib/typescript/example",
         "!android/build",
         "!ios/build",
