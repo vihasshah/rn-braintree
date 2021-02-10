@@ -1,5 +1,5 @@
 {
-    "name": "rn-braintree",
+    "name": "rn-braintree-xplat",
     "version": "0.1.0",
     "description": "Upgraded wrapper of android and ios braintree sdk",
     "main": "lib/commonjs/index",
@@ -36,13 +36,13 @@
         "ios",
         "android"
     ],
-    "repository": "https://github.com/vihasshah/rn-braintree",
+    "repository": "https://github.com/vihasshah/rn-braintree-xplat",
     "author": "Vihas Shah <vihasshah@gmail.com> (https://github.com/vihasshah)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/vihasshah/rn-braintree/issues"
+        "url": "https://github.com/vihasshah/rn-braintree-xplat/issues"
     },
-    "homepage": "https://github.com/vihasshah/rn-braintree#readme",
+    "homepage": "https://github.com/vihasshah/rn-braintree-xplat#readme",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },

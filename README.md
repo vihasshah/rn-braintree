@@ -5,21 +5,21 @@ Upgraded wrapper of android and ios braintree sdk
 ## Installation
 
 ```sh
-npm install rn-braintree
+npm install rn-braintree-xplat
 ```
 
 ```sh
-yarn add rn-braintree
+yarn add rn-braintree-xplat
 ```
 
 ## Usage
 
 ```js
-import RnBraintree from "rn-braintree";
+import RnBraintree from 'rn-braintree-xplat'
 
 // ...
 
-const result = await RnBraintree.multiply(3, 7);
+const result = await RnBraintree.multiply(3, 7)
 ```
 
 ## Contributing
